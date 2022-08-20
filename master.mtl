@@ -1,0 +1,13 @@
+newmtl Textured
+   Ka 1.000 1.000 1.000
+   Kd 0.000 0.000 0.000
+   Ks 0.000 0.000 0.000
+   d 1.0
+   illum 2
+   # the ambient texture map
+   map_Ka car.tga
+   
+   # the diffuse texture map (most of the time, it will be the same as the
+   # ambient texture map)
+   map_Kd car.tga
+   
